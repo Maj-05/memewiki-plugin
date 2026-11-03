@@ -1,0 +1,13 @@
+{
+  "name": "memewiki-plugin",
+  "version": "1.0.0",
+  "description": "梗百科 - 本地梗/缩写/黑话查询，零联网零依赖",
+  "main": "index.js",
+  "type": "module",
+  "author": "Luce",
+  "license": "MIT",
+  "keywords": ["yunzai", "梗", "meme", "梗百科"],
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
